@@ -25,7 +25,7 @@ A ideia é que o conhecimento produzido pela equipe não se perca entre conversa
 | [`documentos/`](documentos/) | Regimentos, atas, relatórios, planejamentos e documentos institucionais |
 | [`referencias/`](referencias/) | Datasheets, manuais, artigos e links úteis |
 | [`projetos/`](projetos/) | Documentação técnica dos projetos e robôs do grupo |
-| [`onboarding/`](onboarding/) | Material de boas-vindas para novos membros |
+|
 | [`templates/`](templates/) | Modelos para escrever novos tutoriais e documentos |
 | [`assets/`](assets/) | Imagens, diagramas e arquivos usados nos documentos |
 
@@ -38,10 +38,6 @@ tutoriais/
 ├── mecanica/          # Modelagem 3D, impressão 3D, corte, montagem
 └── ferramentas/       # Git, GitHub, softwares e ambientes de desenvolvimento
 ```
-
-## Novo por aqui?
-
-Comece pela pasta [`onboarding/`](onboarding/). Lá estão as primeiras informações sobre o grupo, como funcionam as equipes e por onde começar a estudar.
 
 ## Como contribuir
 
@@ -104,7 +100,7 @@ Erros frequentes e como resolver.
 ## Dúvidas e sugestões
 
 - Encontrou um erro ou tem uma ideia de tutorial? Abra uma [**issue**](../../issues).
-- Para outros assuntos, fale com a coordenação do grupo.
+- Para outros assuntos, fale com a coordenação do grupo pelo e-mail **tuiutech.ufgd@gmail.com**.
 
 ---
 
