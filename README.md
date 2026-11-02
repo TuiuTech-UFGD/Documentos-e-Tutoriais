@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-tuiutech.png" alt="Logo TuiuTech" width="220">
+  <img src="assets/logo-tuiutech.png" alt="Logo TuiuTech" width="=350">
 </p>
 
 <h1 align="center">TuiuTech · Documentos e Tutoriais</h1>
@@ -25,7 +25,6 @@ A ideia é que o conhecimento produzido pela equipe não se perca entre conversa
 | [`documentos/`](documentos/) | Regimentos, atas, relatórios, planejamentos e documentos institucionais |
 | [`referencias/`](referencias/) | Datasheets, manuais, artigos e links úteis |
 | [`projetos/`](projetos/) | Documentação técnica dos projetos e robôs do grupo |
-|
 | [`templates/`](templates/) | Modelos para escrever novos tutoriais e documentos |
 | [`assets/`](assets/) | Imagens, diagramas e arquivos usados nos documentos |
 
